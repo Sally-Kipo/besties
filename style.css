@@ -108,3 +108,37 @@ nav .fa {
   transition: 1s;
 }
 }
+/*----course----*/
+
+.adventure{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+
+}
+h1{
+  font-size: 36px;
+  font-weight: 600;
+}
+p{
+  color: blueviolet;
+  font-size: 14px;
+  font-weight: 300; 
+  line-height: 22px;  
+  padding: 10px;
+}
+.row{
+  margin: 5%;
+  display: flex;
+  justify-content: space-between;
+
+}
+.dvnt1{
+  flex-basis: 31%;
+  background: pink;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 70px 17px;
+  box-sizing: border-box;
+}
